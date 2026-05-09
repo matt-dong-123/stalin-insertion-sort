@@ -22,7 +22,7 @@ So it kind of (?) works.
 
 1. Traverse the list from left to right, using the first element as initial reference.
 2. If an element is smaller than the element before it, remove it, and store it in a temporary list.
-3. After all rebellious elements are removed, add them back according to order.
+3. After all anti-communist elements are removed, add them back according to order.
 
 ## Step-by-step Example
 
